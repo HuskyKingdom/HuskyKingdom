@@ -32,4 +32,6 @@
 <p> Email: yuhang_topsoftint.com | <a href="https://yuhang.topsoftint.com/"> Full Bio </a> </p>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik) | Friends: <a href="https://github.com/568875138"> SilentYang </a>
+⭐️ From [devSouvik](https://github.com/devSouvik) 
+
+Links : <a href="https://github.com/568875138"> SilentYang </a> | [Prof.Nguyen](https://www.csc.liv.ac.uk/~anguyen/) | [Prof.Lee](https://github.com/chunyilee)
