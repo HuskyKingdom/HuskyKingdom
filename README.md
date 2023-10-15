@@ -29,7 +29,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<p> Email: yuhang@topsoftint.com | <a href="https://yhscode.com/"> Full Bio </a> </p>
+<p> Email: me@yhscode.com | <a href="https://yhscode.com/"> Full Bio </a> </p>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik) 
