@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java 
-- 🔧 &nbsp; Visual Studio code | Tensorflow | Pytorch | Django
-- 🛢 &nbsp; Efficient DNNs | Computer Vision | Reinforcement Learning
-- 🌐 &nbsp; HTML | CSS | JavaScript | MySQL
+- 🔧 &nbsp; Pytorch | Tensorflow  | Django
+- 🛢 &nbsp; Embodied AI | Reinforcement Learning | Computer Vision | Efficient DL
+- 🌐 &nbsp; Web Programming | Database
 - 🖥 &nbsp; Adobe PR | Photoshop 
 
 <br>
